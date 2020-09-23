@@ -629,3 +629,12 @@ nav ul li a {
 .credits {
   font-size: 13px;
 }
+
+.wrapper {
+  margin: 0 auto;
+  width: 1000px;
+}
+
+video {
+width: 70%;
+}
